@@ -1,0 +1,29 @@
+.row {
+    display: flex;
+    width: 100%;
+}
+.header {
+    height: 150px;
+}
+.links {
+    padding: 0 5px 0 0;
+}
+.work {
+    text-align: center;
+    font-size: 60px; 
+}
+
+
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+
+@media screen and (max-width: 700px) {
+    .column {
+        width: 100%;
+    }
+}
