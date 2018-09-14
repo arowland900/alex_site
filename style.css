@@ -8,7 +8,9 @@
     color: white;
 }
 .links {
-    padding: 0 10px 0 0;
+    font-size: 20px; 
+    text-align: center;
+    padding: 20px 20pc 0px 20px;
 }
 .work {
     text-align: center;
