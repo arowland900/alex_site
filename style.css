@@ -17,6 +17,9 @@
     font-size: 50px; 
     padding: 5px 0 0 0;
 }
+.head {
+    color: black;
+}
 
 
 /* Clear floats after the columns */
