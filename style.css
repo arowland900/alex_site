@@ -47,6 +47,10 @@
     clear: both;
 } */
 
+.fill {
+    object-fit: fill;
+}
+
 
 @media screen and (max-width: 700px) {
     .column {
@@ -56,12 +60,15 @@
 
 .img__wrap {
     position: relative;
+    /* border: .5px solid grey; */
 }
   
 .img__description {
     position: absolute;
     text-align: center;
-    font-size: 30px;
+    font-size: 1.75vw;
+    font-weight: 700;
+    padding: 5vw;
     top: 0;
     bottom: 0;
     left: 0;
