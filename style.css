@@ -3,19 +3,23 @@
     width: 100%;
 }
 .header {
-    height: 100px;
+    height: 90px;
     background-color: black;
     color: white;
 }
 .links {
     font-size: 20px; 
     text-align: center;
-    padding: 20px 20pc 0px 20px;
+    padding: 10px 10px 0px 10px;
 }
 .work {
     text-align: center;
     font-size: 50px; 
     padding: 5px 0 0 0;
+}
+.name {
+    text-align: left;
+    font-size: 50px;
 }
 .head {
     color: black;
