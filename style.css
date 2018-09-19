@@ -58,6 +58,9 @@
     .column {
         width: 100%;
     }
+    /* .img__description {
+        font-size: 3.5vw;
+    } */
 }
 
 .img__wrap {
@@ -68,7 +71,7 @@
 .img__description {
     position: absolute;
     text-align: center;
-    font-size: 1.75vw;
+    font-size: calc(1vw + 1vh + .5vmin);
     font-weight: 700;
     padding: 5vw;
     top: 0;
