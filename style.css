@@ -36,15 +36,15 @@
     color: black;
 }
 .description {
-    font-size: 20px;
+    font-size: 17.5px;
 }
 .techused{
-    font-size: 30px;
+    font-size: 25px;
     line-height: 70px;
 }
 .title {
     font-weight: 400;
-    font-size: 40px;
+    font-size: 35px;
 }
 .descriptionbox{
     padding: 2vw;
