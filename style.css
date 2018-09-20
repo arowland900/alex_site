@@ -38,6 +38,10 @@
 .description {
     font-size: 20px;
 }
+.techused{
+    font-size: 30px;
+    line-height: 70px;
+}
 .title {
     font-weight: 400;
     font-size: 40px;
