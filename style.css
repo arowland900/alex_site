@@ -2,9 +2,6 @@ body {
     background: rgb(247, 247, 247);
     padding: 90px 0px 0px 0px;
 }
-navbar {
-    border-bottom: 50px;
-}
 .row {
     display: flex;
     width: 100%;
@@ -86,9 +83,10 @@ navbar {
     .column {
         width: 100%;
     }
-    /* .img__description {
-        font-size: 3.5vw;
-    } */
+    body {
+        background: rgb(247, 247, 247);
+        padding: 150px 0px 0px 0px;
+    }
 }
 
 .img__wrap {
